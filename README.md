@@ -1,2 +1,2 @@
-# sms
-sms package for thinkphp5
+# jwt
+simple sms package for thinkphp5

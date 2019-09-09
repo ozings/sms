@@ -1,0 +1,21 @@
+{
+    "name": "ozings/sms",
+    "description": "simple sms package for thinkphp5",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "燎原",
+            "email": "1210590505@qq.com"
+        }
+    ],
+    "require": {
+        "alibabacloud/client": "^1.0",
+        "ozings/response": "v0.1"
+	},
+    "autoload": {
+        "psr-4": {
+            "ozings\\": "src/"
+        }
+    }
+}
