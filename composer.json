@@ -11,7 +11,7 @@
     ],
     "require": {
         "alibabacloud/client": "^1.0",
-        "ozings/response": "v0.1"
+        "ozings/response": "^0.1"
 	},
     "autoload": {
         "psr-4": {
